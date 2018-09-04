@@ -6,7 +6,7 @@
  * Author URI: https://janboddez.be/
  * License: GNU General Public License v2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
- * Version: 0.1
+ * Version: 0.2
  * GitHub Plugin URI: https://github.com/janboddez/lightweight-fancybox
  */
 
