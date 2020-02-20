@@ -1,2 +1,2 @@
 # Lightweight Fancybox
-A very lightweight Fancybox plugin for WordPress.
+A very lightweight [Fancybox](http://fancyapps.com/fancybox/3/) plugin for WordPress.
